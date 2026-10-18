@@ -1,0 +1,9 @@
+Noto Sans Arabic — official Google Fonts distribution
+Downloaded: 2026-10-14
+Source: https://github.com/google/fonts/tree/main/ofl/notosansarabic
+Original file: NotoSansArabic[wdth,wght].ttf
+Local filename: NotoSansArabic.ttf (binary unchanged)
+SHA256: 63111B5B2E074DD48CC67692E0A2726D86EE94C1C37FE8598257B7B4E87E869E
+License: SIL Open Font License 1.1; see NotoSansArabic-LICENSE.txt.
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/arabic)
+The font is locally hosted. Existing English font and photography notices remain unchanged.

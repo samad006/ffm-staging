@@ -1,0 +1,23 @@
+FFM photography and brand asset source record
+
+Photography is illustrative; it does not depict FFM personnel, projects or clients.
+Final production rights review and owner approval remain required.
+
+| logo.png, logo-white.png | Supplied FFM Full Branding.pdf, page 6 image resources | Brand reference assets; request original vector exports for production |
+| architecture.jpg | Ricky Esquivel / Pexels: https://www.pexels.com/photo/low-angle-photography-of-high-rise-building-2539053/ | Source identifies free use; illustrative architecture, not an FFM project |
+| building.jpg | https://freebie.photography/office/slides/office_block.htm | Source states free use with backlink attribution; full release/terms review before production |
+| technical-detail.jpg | Pixabay / Pexels: https://www.pexels.com/photo/electrician-fixing-an-opened-switchboard-257736/ | Source identifies free use; illustrative electrical maintenance |
+| facility-interior.jpg | Eduardo Romero / Pexels: https://www.pexels.com/photo/gray-chair-3124079/ | Source identifies free use; illustrative facility interior |
+| engineer.jpg | Fatih Yurtman / Pexels: https://www.pexels.com/photo/electrician-by-fuse-box-17842832/ | Source identifies free use; illustrative maintenance, not FFM personnel |
+| Candal and Poppins TTFs | Google Fonts repository, ofl/candal and ofl/poppins | Font license notices included in assets |
+| hero-refined.jpg | https://www.pexels.com/photo/low-angle-photography-of-a-high-rise-building-5087531/ |
+| maintenance.jpg | https://www.pexels.com/photo/electrician-working-with-cables-21812143/ |
+| engineering.jpg | https://www.pexels.com/photo/modern-control-room-with-electrical-panels-33706868/ |
+| hero.jpg | Nick Linnen / Unsplash: https://unsplash.com/fr/photos/batiment-en-beton-gris-et-noir-1M73icNaBLQ |
+| cleaning.jpg | https://www.pexels.com/photo/grayscale-photo-of-a-man-cleaning-a-glass-panel-6195104/ |
+| air-conditioning.jpg | https://www.pexels.com/photo/technician-performing-air-conditioning-maintenance-32588555/ |
+| landscaping.jpg | https://www.pexels.com/photo/man-trimming-the-leaves-5027602/ |
+| plumbing.jpg | https://www.pexels.com/photo/plumber-repairing-pipe-with-wrench-indoors-32588548/ |
+| fire-safety.jpg | https://www.pexels.com/photo/red-fire-extinguisher-against-wall-4805958/ |
+
+Building photograph source: Freebie Photography. The handoff records a backlink requirement; this backlink is retained pending final terms verification. Font license notices are bundled alongside each font family.
